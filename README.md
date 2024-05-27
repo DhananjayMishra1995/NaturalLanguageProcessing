@@ -6,4 +6,4 @@ definition and small explanation along with the code for that particular topic o
 
 
 #### I will keep on updating this file whenever I will upload any file in this repository
-1. Day-1 -> This file covers topic such as StopWords, Stemming, Lemmatization, BagofWords.
+1. Day_1 -> This file covers topic such as StopWords, Stemming, Lemmatization, BagofWords.
